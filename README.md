@@ -45,7 +45,7 @@ If you create a clone of my bot then Don't forget to give ***Credit***
 global.Owner = ["2347080968564"]; 
 global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
-global.SESSION_ID = process.env.SESSION_ID || "" //session ID here
+global.SESSION_ID =K33SXYMH process.env.SESSION_ID || "" //session ID here
 ```
 3.  put your session ID in global.SESSION_ID
 #### DEPLOY TO HEROKU 
